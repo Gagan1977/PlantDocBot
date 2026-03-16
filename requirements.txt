@@ -1,0 +1,15 @@
+torch
+torchvision
+opencv-python
+numpy
+Pillow
+scikit-learn
+matplotlib
+seaborn
+django
+djangorestframework
+celery
+redis
+jupyter
+python-dotenv
+pytest
